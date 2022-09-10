@@ -64,3 +64,7 @@ pt##.ghostHeader
 
 www.webcamtaxi.com###ca_banner
 blogvisaodemercado.pt##.header-widget-area.widget-area
+newscientist.com##.ad-leaderboard
+abola.pt##.hidden-xs.comentarios.row
+reddit.com###eu-cookie-policy
+viki.com##.show.cookie-banner.sticky-banner
