@@ -63,3 +63,4 @@ pt##.ghostHeader
 
 
 www.webcamtaxi.com###ca_banner
+blogvisaodemercado.pt##.header-widget-area.widget-area
