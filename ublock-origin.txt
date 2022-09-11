@@ -68,3 +68,4 @@ newscientist.com##.ad-leaderboard
 abola.pt##.hidden-xs.comentarios.row
 reddit.com###eu-cookie-policy
 viki.com##.show.cookie-banner.sticky-banner
+cnnportugal.iol.pt###popover
