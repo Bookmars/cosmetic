@@ -70,3 +70,9 @@ reddit.com###eu-cookie-policy
 viki.com##.show.cookie-banner.sticky-banner
 cnnportugal.iol.pt###popover
 www.inoreader.com##.sinner.ad_size_leaderboard.leaderboard_ad.block_article_ad
+
+sapo.pt##.ad-ctn
+sapo.pt###billboard
+sapo.pt###comentarios
+sapo.pt##.bsu-placeholder-ctn
+login.telecom.pt###warning_EU_cookiemsg
