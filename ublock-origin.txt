@@ -78,3 +78,5 @@ sapo.pt##.bsu-placeholder-ctn
 login.telecom.pt###warning_EU_cookiemsg
 
 blogspot.com##.singleton-element.cookie-choices-info
+www.cmjornal.pt##section.container:nth-of-type(8)
+www.cmjornal.pt##.c_studio.container
