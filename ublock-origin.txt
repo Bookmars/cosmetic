@@ -76,3 +76,5 @@ sapo.pt###billboard
 sapo.pt###comentarios
 sapo.pt##.bsu-placeholder-ctn
 login.telecom.pt###warning_EU_cookiemsg
+
+blogspot.com##.singleton-element.cookie-choices-info
