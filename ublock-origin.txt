@@ -82,3 +82,4 @@ www.cmjornal.pt##section.container:nth-of-type(8)
 www.cmjornal.pt##.c_studio.container
 www.natgeo.pt##.css-bwgt6p.ng-ad-banner
 www.theregister.com##.RegCTBWF_wrapper
+www.propublica.org##.syndicated-modal
