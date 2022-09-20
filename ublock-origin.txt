@@ -83,3 +83,7 @@ www.cmjornal.pt##.c_studio.container
 www.natgeo.pt##.css-bwgt6p.ng-ad-banner
 www.theregister.com##.RegCTBWF_wrapper
 www.propublica.org##.syndicated-modal
+
+www.radio.pt##.gydXto.sc-13xwksj-0
+www.radio.pt##.eFByjb.sc-11pmc9l-1
+www.radio.pt##.kyZcPa.sc-11pmc9l-0
