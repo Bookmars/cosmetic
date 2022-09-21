@@ -87,3 +87,7 @@ www.propublica.org##.syndicated-modal
 www.radio.pt##.gydXto.sc-13xwksj-0
 www.radio.pt##.eFByjb.sc-11pmc9l-1
 www.radio.pt##.kyZcPa.sc-11pmc9l-0
+
+www.waxpoetics.com##.cookie
+www.waxpoetics.com##.popin-inner
+www.waxpoetics.com##.dancefloor-popin > .bg
