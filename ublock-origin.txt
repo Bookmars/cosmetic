@@ -91,3 +91,5 @@ www.radio.pt##.kyZcPa.sc-11pmc9l-0
 www.waxpoetics.com##.cookie
 www.waxpoetics.com##.popin-inner
 www.waxpoetics.com##.dancefloor-popin > .bg
+
+www.bbc.com##.b-pw-1280.no-touch.gs-u-box-size.nw-c-leaderboard-ad
